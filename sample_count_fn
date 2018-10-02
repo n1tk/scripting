@@ -1,0 +1,12 @@
+# def cample to use for "counting" and assign the reward
+
+```python
+def count(sequence, item):
+    total = 0
+    for x in sequence:
+        if x == item:
+            total += 1
+    return total
+```
+
+* https://www.codecademy.com/en/forum_questions/54da2af895e3789d5900cd82
