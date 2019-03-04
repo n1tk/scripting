@@ -1,0 +1,14 @@
+<html>
+<body>
+<table>
+  <tr>
+<td id="A">-</td>
+      <td id="B">B</td>
+ </tr>
+ <tr>
+    <td id="C">C</td>
+    <td id="D">D</td>
+ </tr>
+</table>
+</html>
+</body>
